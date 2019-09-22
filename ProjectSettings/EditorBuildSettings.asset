@@ -29,4 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Minigames/Authors/Adrian Brody/Cool Game/adrian_coolgame_scene.unity
     guid: 7fad500d26558424aa01dd88aab355ae
+  - enabled: 1
+    path: Assets/Minigames/Authors/Rigved/ShootEm/ShootEm_scene.unity
+    guid: 9bc0e1dd8aaa041d7b0ff51aca95abe1
   m_configObjects: {}
